@@ -7,3 +7,4 @@ Just for interest and fun.
 @xialiwei: 
 @tony:hello world1
 @tony:hello world2
+今天在蘑菇云！
